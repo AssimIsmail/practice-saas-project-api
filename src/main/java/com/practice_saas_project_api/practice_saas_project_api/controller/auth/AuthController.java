@@ -1,7 +1,7 @@
 
 package com.practice_saas_project_api.practice_saas_project_api.controller.auth;
 
-import com.practice_saas_project_api.practice_saas_project_api.dto.request.LoginRequest;
+import com.practice_saas_project_api.practice_saas_project_api.request.LoginRequest;
 import com.practice_saas_project_api.practice_saas_project_api.service.auth.AuthService;
 import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.http.ResponseEntity;
